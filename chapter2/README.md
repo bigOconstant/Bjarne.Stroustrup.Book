@@ -12,7 +12,7 @@ Chapter two
 using namespace std;
 inline void keep_window_open() {char ch; cin>>ch;}
 
-/*end common includes*//
+/*end common includes*/
 
 
 int main()
