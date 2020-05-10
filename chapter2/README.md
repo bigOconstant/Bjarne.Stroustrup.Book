@@ -25,3 +25,7 @@ int main()
 
 
 ```
+
+Compile with `g++ main.cpp`
+
+Run with `a./out`
